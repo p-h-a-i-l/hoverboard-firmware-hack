@@ -21,7 +21,7 @@
 #include "defines.h"
 #include "config.h"
 #include "hallinterrupts.h"
-#include <memory.h>
+//#include <memory.h>
 
 #ifdef HALL_INTERRUPTS
 
