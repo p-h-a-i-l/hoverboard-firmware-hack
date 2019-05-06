@@ -3,5 +3,4 @@ build/*
 .pioenvs
 .piolibdeps
 .vscode/*
-.travis.yml
 lib/readme.txt
