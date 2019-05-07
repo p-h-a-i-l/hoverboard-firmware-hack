@@ -42,5 +42,6 @@ matrix:
       install:
         - pip install -U platformio
         - platformio update
-      cache: directories: "~/.platformio"
+      cache: 
+        directories: "~/.platformio"
       script: platformio run
